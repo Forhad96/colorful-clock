@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #ddd;
+border-radius: 10px;
+}
+.selectStyle{
+  padding: 5px 20px;
+  border: 4px solid pink;
+  border-radius: 8px;
+  font-size: 18px;
+  outline: none;
+}
